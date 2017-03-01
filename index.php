@@ -1,0 +1,473 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="feek">
+    <meta name="author" content="Mouhssine SOUMAIRI">
+    <title>FORUM ENCGK-ENTREPRISES</title>
+	<!-- core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.transitions.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="images/ico/Square-Blue.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/Square-Blue.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/Square-Blue.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/Square-Blue.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/Square-Blue.png">
+</head><!--/head-->
+
+<body id="home" class="homepage">
+
+    <header id="header">
+        <nav id="main-menu" class="navbar navbar-default navbar-fixed-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
+                </div>
+
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="scroll active"><a href="#home">ACCUEIL</a></li>
+                        <li class="scroll"><a href="#features">NOTRE &Eacute;COLE</a></li>
+                        <li class="scroll"><a href="#portfolio">PHOTOS</a></li>
+                        <li class="scroll"><a href="#about">&Eacute;DITION 2016</a></li>
+                        <li class="scroll"><a href="#contact">CONTACTEZ NOUS</a></li>
+                    </ul>
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->
+    </header><!--/header-->
+
+    <section id="main-slider">
+        <div class="owl-carousel">
+            <div class="item" style="background-image: url(images/slider/bg1.jpg);">
+                <div class="slider-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h2>De multiples opportunit&eacute;s au cœur du <span>FORUM ENCGK-ENTREPRISES  </span> </h2>
+                                    <p>En tant que grande école supérieure en économie et en gestion, l'ENCG-Kenitra se doit d'intégrer et de valoriser ses étudiants dans le monde de travail </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/.item-->
+             <div class="item" style="background-image: url(images/slider/bg2.jpg);">
+                <div class="slider-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h2>Forum de <span>devenir</span> et de <span>l’avenir</span></h2>
+                                    <p> </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/.item-->
+        </div><!--/.owl-carousel-->
+    </section><!--/#main-slider-->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="features">
+                    <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="0ms" style="visibility: visible; animation-duration: 300ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                <i class="fa fa-calendar-o "></i>
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading"> L'&eacute;v&egrave;nement</h4>
+                                <p>Le Forum ENCGK-ENTREPRISES est un événement qui réunit chaque année dizaine des entreprises et plus de 3000 étudiants de notre école l'ENCG du K&eacute;nitra.
+                                </p>
+                            </div>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="100ms" style="visibility: visible; animation-duration: 300ms; animation-delay: 100ms; animation-name: fadeInUp;">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                <i class="fa fa-user"></i>
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading"> Espace &Eacute;tudiants</h4>
+                                <p>Étudiants de l'ENCGK, retrouvez ici l'ensemble des informations nécessaires afin de préciser votre projet d'études et professionnel en préparant votre Forum.r</p>
+                            </div>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 300ms; animation-delay: 200ms; animation-name: fadeInUp;">
+                        <div class="media service-box">
+                            <div class="pull-left">
+                                <i class="fa fa-users"></i>
+                            </div>
+                            <div class="media-body">
+                                <h4 class="media-heading">Espace Entreprise</h4>
+                                <p>Une opportunité pour les entreprises de comprendre la diversité et la richesse des compétences des étudiants de l'ENCGK.
+                                </p>
+                            </div>
+                        </div>
+                    </div><!--/.col-md-4-->
+                </div>
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section>
+    <section id="get-in-touch">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">Mot du comité</h2>
+                <p class="text-justify wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">Le FORUM ENCGK-ENTREPRISES a pour ambition de devenir un rendez-vous annuel incontournable qui traduit notre volonté de rapprocher l’Ecole Nationale de Commerce et de Gestion de Kénitra du monde professionnel de façon générale, et de raccourcir le chemin entre nos étudiants des entreprises de façon plus spécifique. Dans ce sens, et afin de garantir une réelle pérennité à ce remarquable évènement, c’est avec grande estime que le deuxième comité organisateur du Forum s’engage à faire de cette édition une incontestable réussite, à la hauteur de la confiance et des attentes de ses nombreux partenaires.</p>
+                <p class="text-justify wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">Notre ultime objectif est d'assouvir le besoin des étudiants, lauréats ou futurs lauréats, en terme de recherche de stage d'études et éventuellement d’embauches tout en assurant la présence des meilleurs profils au bénéfice des entreprises participantes. Par conséquent, sponsoriser ce forum équivaut à une ou plusieurs rencontres avantageuses et rentables en vue d’une réussite mutuelle.</p>
+
+            </div>
+        </div>
+    </section>
+    <section id="features">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">Notre &Eacute;cole</h2>
+                <p class="text-center wow fadeInDown">L'Ecole Nationale de Commerce et de Gestion de Kenitra</p>
+
+            </div>
+            <div class="row">
+                <div class="col-sm-6 wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
+                    <img class="img-responsive img-rounded" src="images/Photo0829.png" alt="">
+                </div>
+                <div class="col-sm-6">
+                    <div class="media service-box wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+                        <div class="pull-left">
+                            <i class="fa fa-graduation-cap"></i>
+                        </div>
+                        <div class="media-body">
+                            <p class="text-justify">L'ENCGK fait partie du prestigieux réseau marocain des ENCGs. Elle a été fondée en 2005. Trois ans plus tard, le 13 octobre 2008, l’E.N.C.G.K a vu le jour après l’inauguration de l’établissement par sa Majesté le Roi Mohamed VI.  L’E.N.C.G, qui est un établissement d’enseignement supérieur public ayant pour vocation l’enseignement, la formation continue et la recherche dans les domaines des techniques commerciales et des sciences de gestion des entreprises.</p>
+                        </div>
+                    </div>
+                    <div class="media service-box wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+                        <div class="pull-left">
+                            <i class="fa fa-users" aria-hidden="true"></i>
+                        </div>
+                        <div class="media-body">
+                            <p class="text-justify">La rigueur de la sélection à chaque rentrée universitaire, la qualité des méthodes pédagogiques et le grand professionnalisme font de l’ENCG l’établissement de l’élite par excellence. L’enseignement modulaire et évolutif, qui alterne théorie et pratique, accorde une large place à la participation des étudiants à la vie associative et à leur ouverture constante sur l'environnement socio-économique tant sur le plan national que sur le plan international.</p>
+                        </div>
+                    </div>
+<br>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="animated-number">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">Tout nos Chiffres-cl&Eacute;</h2>
+                <p class="text-center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;"> <br> </p>
+            </div>
+
+            <div class="row text-center">
+                <div class="col-sm-3 col-xs-6">
+                    <div class="wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="0ms" style="visibility: visible; animation-duration: 400ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <div class="animated-number" data-digit="10" data-duration="1">1</div>
+                        <strong>ENTREPRISES</strong>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <div class="wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="100ms" style="visibility: visible; animation-duration: 400ms; animation-delay: 100ms; animation-name: fadeInUp;">
+                        <div class="animated-number" data-digit="3000" data-duration="1000">1000</div>
+                        <strong>VISITEUR</strong>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <div class="wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="200ms" style="visibility: visible; animation-duration: 400ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <div class="animated-number" data-digit="1034" data-duration="1000">100</div>
+                        <strong>ENTRETIENS</strong>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-6">
+                    <div class="wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 400ms; animation-delay: 300ms; animation-name: fadeInUp;">
+                        <div class="animated-number" data-digit="6000" data-duration="1000">1000</div>
+                        <strong>QUESTIONS R&Eacute;PONDUS</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section id="portfolio">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">PHOTOS DU FORUM</h2>
+                <p class="text-center wow fadeInDown">1&egrave;re &eacute;dition</p>
+            </div>
+
+            <div class="text-center">
+                <ul class="portfolio-filter">
+                    <li><a class="active" href="#" data-filter="*">Tout les albums</a></li>
+                    <li><a href="#" data-filter=".creative">Conf&eacute;rence d'ouverture</a></li>
+                    <li><a href="#" data-filter=".corporate">Stands d'entreprises</a></li>
+                    <li><a href="#" data-filter=".portfolio">Workshops d'orientation</a></li>
+                </ul><!--/#portfolio-filter-->
+            </div>
+
+            <div class="portfolio-items">
+                <div class="portfolio-item corporate">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/07.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition</h3>
+                            Stands d'entreprises
+                            <a class="preview" href="images/portfolio/07.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+                <div class="portfolio-item creative">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/01.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition - </h3>
+                            Conférence d'ouverture
+                            <a class="preview" href="images/portfolio/01.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+                <div class="portfolio-item creative">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/02.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition - </h3>
+                            Conférence d'ouverture
+                            <a class="preview" href="images/portfolio/02.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item creative">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/03.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition - </h3>
+                            Conférence d'ouverture
+                            <a class="preview" href="images/portfolio/03.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item corporate">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/06.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition</h3>
+                            Stands d'entreprises
+                            <a class="preview" href="images/portfolio/06.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+                <div class="portfolio-item creative">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/04.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition - </h3>
+                            Conférence d'ouverture
+                            <a class="preview" href="images/portfolio/04.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item creative">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/05.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition - </h3>
+                            Conférence d'ouverture
+                            <a class="preview" href="images/portfolio/05.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item  portfolio">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/09.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition</h3>
+                            Workshops d'orientation
+                            <a class="preview" href="images/portfolio/09.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+                <div class="portfolio-item corporate">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/08.jpg" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition</h3>
+                            Stands d'entreprises
+                            <a class="preview" href="images/portfolio/08.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+                <div class="portfolio-item  portfolio">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/11.png" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition</h3>
+                            Workshops d'orientation
+                            <a class="preview" href="images/portfolio/11.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+                <div class="portfolio-item  portfolio">
+                    <div class="portfolio-item-inner">
+                        <img class="img-responsive" src="images/portfolio/10.png" alt="">
+                        <div class="portfolio-info">
+                            <h3>1ère édition</h3>
+                            Workshops d'orientation
+                            <a class="preview" href="images/portfolio/10.png" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                        </div>
+                    </div>
+                </div><!--/.portfolio-item-->
+
+
+
+
+
+
+            </div>
+        </div><!--/.container-->
+    </section><!--/#portfolio-->
+
+    <section id="about">
+        <div class="container">
+
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">Aperçu sur la première édition</h2>
+                <p class="text-center wow fadeInDown">Forum de devenir et de l’avenir.</p>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 wow fadeInLeft">
+                    <h3 class="column-title">Aftermovie</h3>
+                    <!-- 16:9 aspect ratio -->
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Hh5BB2AH2uo" frameborder="0" allowfullscreen></iframe>                    </div>
+                </div>
+
+                <div class="col-sm-6 wow fadeInRight">
+                    <h3 class="column-title">La première édition</h3>
+                    <p>Notre école nationale de commerce et de gestion de Kenitra a agencé le « forum ENCGk ENTREPRISES », qui fut et sera cette année encore, une large plateforme de rencontre professionnel entre les étudiants et les acteurs économiques. Ce forum a connu une forte présence en termes d’audience ayant assisté aux ateliers de formations.</p>
+
+                    <p>Il est à noter que l’objectif primordial de ces derniers consistait à consolider la formation des ENCGistes à travers diverses conférences et débats sous la tutelle des personnes de très haut calibre.</p>
+
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <ul class="nostyle">
+                                <li><i class="fa fa-check-square"></i> Plus de 1000 visiteurs</li>
+                                <li><i class="fa fa-check-square"></i> Plus de 10 entreprises</li>
+                            </ul>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <ul class="nostyle">
+                                <li><i class="fa fa-check-square"></i> 5 partenaires institutionnels</li>
+                                <li><i class="fa fa-check-square"></i> 5 partenaires médiatiques </li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </section><!--/#about-->
+
+
+
+    <section id="contact">
+        <div id="google-map" style="height:650px" data-latitude="34.2484648" data-longitude="-6.5874067"></div>
+        <div class="container-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4 col-sm-offset-8">
+                        <div class="contact-form">
+                            <h3>Contactez Nous</h3>
+
+                            <address>
+                              <strong>ENCG K&Eacute;NITRA.</strong><br>
+                                Avenue de L'Université, <br>
+                                Kénitra 14 000, Maroc<br>
+                              <abbr title="Phone">T&eacute;l: </abbr>(+212) 5 37 32 93 22<br>
+                                <abbr title="Phone">Fax: </abbr>(+212) 5 37 37 56 37
+                            </address>
+
+                            <form id="main-contact-form" name="contact-form" method="POST" action="sendemail.php">
+                                <div class="form-group">
+                                    <input type="text" name="name" class="form-control" placeholder="Nom" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" placeholder="Email" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" name="subject" class="form-control" placeholder="Objet" required>
+                                </div>
+                                <div class="form-group">
+                                    <textarea name="message" class="form-control" rows="8" placeholder="Message" required></textarea>
+                                </div>
+                                <input  class="btn btn-primary"  name="submit" type="submit" value="Envoyer">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!--/#bottom-->
+
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2017 FEEKINETRA -. D&eacute;velopp&eacute; par <a target="_blank" href="https://www.linkedin.com/in/mouhssine-soumairi-05a5774a/" title="DEVELOPPEUR WEB">SOUMAIRI MOUHSSINE <small>Pure Prod Colorz</small></a>
+                </div>
+                <div class="col-sm-6">
+                    <ul class="social-icons">
+                        <li><a href="https://web.facebook.com/ForumENCGKEntreprises/"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/9ra_merta7_encgk/"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCC08h6WKPJ5GO1o2Fu5qagw"><i class="fa fa-youtube"></i></a></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer><!--/#footer-->
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtjP8ZlbHnvoHMFw5bLgJjlakIFTNucCE&callback=initMap"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/mousescroll.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/jquery.inview.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
